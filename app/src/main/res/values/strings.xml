@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rate the Record</string>
+    <string name="btnEverbodyKnows">Everybody Knows</string>
+    <string name="btnAllForNothing">All For Nothing</string>
+    <string name="btnStandByMe">Stand By Me</string>
+    <string-array name="arRating">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
